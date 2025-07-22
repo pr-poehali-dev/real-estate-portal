@@ -54,7 +54,7 @@ export default function Index() {
               <div className="w-8 h-8 bg-gradient-to-br from-yellow-400 to-yellow-600 rounded-full flex items-center justify-center">
                 <Icon name="Building2" size={16} className="text-white" />
               </div>
-              <h1 className="font-display text-2xl font-bold text-luxury-black">BLATAFY REALESTION</h1>
+              <h1 className="font-display text-2xl font-bold text-luxury-black">Метры Москвы</h1>
             </div>
             <nav className="hidden md:flex items-center space-x-8">
               <a href="#services" className="text-luxury-black hover:text-luxury-gold transition-colors">Услуги</a>
