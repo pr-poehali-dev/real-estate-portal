@@ -104,7 +104,7 @@ export default function Index() {
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
             <h3 className="font-display text-5xl font-bold text-luxury-black mb-6">
-              Наши <span className="text-luxury-gold">Услуги</span>
+              Мои <span className="text-luxury-gold">Услуги</span>
             </h3>
             <p className="font-body text-xl text-luxury-gray max-w-3xl mx-auto">
               Полный спектр услуг в сфере недвижимости для достижения ваших целей
